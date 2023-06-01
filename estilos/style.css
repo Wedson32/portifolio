@@ -126,6 +126,11 @@ body{
     font-weight: 400;
 }
 
+.grafico{
+    margin: 0%;
+    padding: 10px;
+}
+
 @media (max-width:1200px){
     .cabecalho{
         padding: 10%;
@@ -144,6 +149,10 @@ body{
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .grafico{
+        justify-content: center;
     }
     
 }
